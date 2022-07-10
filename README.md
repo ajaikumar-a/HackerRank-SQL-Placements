@@ -6,7 +6,7 @@ Write a query to output the names of those students whose best friends got offer
 
 Check out the challenge here 👉 https://bit.ly/3ym1ieY
 
-## Solution:
+### Solution:
 
 ```
 SELECT
@@ -22,7 +22,7 @@ ORDER BY
   p2.Salary;
   ```
   
-## Output:
+### Output:
 
 ```
 Stuart 
